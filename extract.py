@@ -12,7 +12,7 @@ def extract_data(file_path):
     Returns:
     - pd.DataFrame: Extracted data.
     """
-    """TODO1"""
+    """TODO"""
 
     return df
 
